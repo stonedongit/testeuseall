@@ -1,0 +1,14 @@
+// Questões 1 até 5.
+
+1 - 35.
+
+2 - ==: É para comparar o valor de duas variáveis;
+    ===: É para comparar o valor e tipo de duas variáveis;
+
+3 - Loop infinito.
+
+4 - "novoNumero = 9" e "a = 3".
+
+5 - "false", "true", "Object nome: "Maria" [[Prototype]]: Object", "Object nome: "Pedro" [[Prototype]]: Object", "false"
+
+6 - X = 12 e Y = 19.4.
